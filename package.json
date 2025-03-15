@@ -1,0 +1,20 @@
+{
+  "name": "fantasy-name-generator",
+  "version": "1.0.0",
+  "description": "A simple web application to generate random fantasy names.",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server src"
+  },
+  "keywords": [
+    "fantasy",
+    "name",
+    "generator",
+    "web"
+  ],
+  "author": "z0mbi3jesus",
+  "license": "MIT",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
