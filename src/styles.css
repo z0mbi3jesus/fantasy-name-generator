@@ -35,7 +35,9 @@ button {
     border: none;
     border-radius: 4px;
     cursor: pointer;
-    font-size: 16px;;
+    font-size: 16px;
+    margin: auto;
+    display: block;
 }
 
 button:hover {
