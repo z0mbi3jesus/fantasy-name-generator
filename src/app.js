@@ -12,7 +12,7 @@ function generateFantasyName() {
 }
 
 document.addEventListener("DOMContentLoaded", () => {
-    const generateButton = document.getElementById("generate-button");
+    const generateButton = document.getElementById("generate-name");
     const nameDisplay = document.getElementById("name-display");
 
     generateButton.addEventListener("click", () => {
