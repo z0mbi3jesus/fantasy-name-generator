@@ -1,4 +1,4 @@
-const firstNames = ["Aragorn", "Legolas", "Gimli", "Frodo", "Samwise", "Gandalf", "Sauron", "Bilbo"];
+const firstNames = ["Aragorn", "Legolas", "Gimli", "Frodo", "Samwise", "Gandalf", "Sauron", "Bilbo", "Sam", "Merry", "Pippin", "Boromir", "Gandalf", "Dobby", "Luna", "Hermione", "Harry", "Steve", "Dave","Gork", ];
 const lastNames = ["Baggins", "Oakenshield", "Greenleaf", "Stormcrow", "Brandybuck", "Dumbledore", "Took", "Gryffindor"];
 
 function getRandomElement(arr) {

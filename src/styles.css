@@ -44,8 +44,9 @@ button:hover {
     background-color: #357ab8;
 }
 
-.name-output {
-    margin-top: 20px;
+.name-display {
+    margin: 0 auto;
+    
     font-size: 24px;
     text-align: center;
     color: #e94e77;
